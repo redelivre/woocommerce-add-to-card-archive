@@ -8,7 +8,7 @@
  * @wordpress-plugin
  * Plugin Name:		  WooCommerce Add to Card on Archives
  * Plugin URI:        https://github.com/redelivre/woocommerce-add-to-card-archive
- * Description:		  Adds default WooCommerce add to card buttons around product on archives pages.
+ * Description:		  Adds default WooCommerce "add to card" buttons template around product on archives pages.
  * Version:           0.0.1
  * Requires at least: 4.7.5
  * Requires PHP:      7.0

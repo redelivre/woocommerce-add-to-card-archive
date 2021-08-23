@@ -49,3 +49,5 @@ class WooCommerceAddToCardArchive {
 		add_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart', 11 );
 	}
 }
+
+WooCommerceAddToCardArchive::get_instance();
